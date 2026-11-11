@@ -1,17 +1,25 @@
-# ejercicios-python
+# Python · Algoritmos e interfaces
 
-Coleccion local de proyectos y ejercicios recuperados. Coleccion para publicacion publica en GitHub, autorizada por el propietario.
+Python, estructuras de datos y Tkinter. Colección de prácticas académicas, organizada en carpetas descriptivas con una guía para cada proyecto.
 
-## Contenido
+## Catálogo
 
-5 archivos de codigo incluidos y 0 retenidos por coincidencias de privacidad. Las variantes se conservan en `proyectos/<identificador>/`, sin fusionar versiones diferentes. Los identificadores se relacionan con las carpetas originales en el inventario local, que no debe publicarse.
+| Proyecto | Archivos | Estado |
+|---|---:|---|
+| [Árbol binario y geometría · 58bdfd](proyectos/arbol-binario-y-geometria-58bdfd/) | 3 | Fuente recuperada |
+| [ventana · a14cde](proyectos/ventana-a14cde/) | 1 | Fuente recuperada |
+| [Cultura interactiva · d3c665](proyectos/cultura-interactiva-d3c665/) | 1 | Fuente recuperada |
 
-## Uso y estado
+## Proyectos incorporados
 
-Esta es una copia de revision parcial: se omitieron archivos con posibles credenciales, correos, matriculas, datos SQL y rutas personales; tambien medios, bases de datos y binarios. Puede requerir recuperar recursos autorizados y sustituir configuraciones por variables de entorno. No se ha compilado ni ejecutado el codigo. No se garantiza que cada proyecto este completo.
+- [Electronics Toolkit · seis herramientas con pruebas](proyectos/electronics-toolkit/README.md)
 
-Conserva por separado cada proyecto al abrirlo en su IDE correspondiente. Revisa sus descriptores de dependencias antes de instalar o ejecutar.
+## Empezar
 
-## Antes de publicar
+1. Elige un proyecto del catálogo.
+2. Lee su README: contiene archivos, requisitos, dependencias y forma de ejecución.
+3. Trabaja con una sola variante y guarda la configuración privada fuera del repositorio.
 
-Resolver archivos retenidos y autoria de ejercicios de terceros, seleccionar versiones definitivas y comprobar funcionamiento. No se asigna licencia sin confirmar derechos. No incluir los informes locales.
+## Sobre las variantes
+
+Los sufijos breves distinguen versiones recuperadas. No representan proyectos comerciales distintos ni pruebas de funcionamiento. Algunas copias solo conservan parte del programa; su README indica las limitaciones detectadas.
