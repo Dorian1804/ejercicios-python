@@ -23,3 +23,13 @@ Python, estructuras de datos y Tkinter. Colección de prácticas académicas, or
 ## Sobre las variantes
 
 Los sufijos breves distinguen versiones recuperadas. No representan proyectos comerciales distintos ni pruebas de funcionamiento. Algunas copias solo conservan parte del programa; su README indica las limitaciones detectadas.
+
+## New learning programs · November 2026
+
+- [Sensor CSV Analysis](proyectos/sensor-analysis/README.md)
+- [File Integrity Manifest](proyectos/file-checksums/README.md)
+- [Expense CSV Summary](proyectos/expense-summary/README.md)
+- [Four-band Resistor Decoder](proyectos/resistor-colors/README.md)
+- [Weighted Grade Calculator](proyectos/weighted-grades/README.md)
+
+New implementations are identified in each README; recovered variants remain separately documented.
